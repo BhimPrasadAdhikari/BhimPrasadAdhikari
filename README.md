@@ -1,13 +1,10 @@
-# Hi there 👋! ![Visitor Badge](https://komarev.com/ghpvc/?username=BhimPrasadAdhikari&label=Profile%20Views&color=0e75b6&style=flat)
+# Hi there 👋
 
 
 I’m a passionate developer who loves building full-stack applications, training ML models, solving real-world enterprise problems, and contributing to open source.
 
-- 🔭 I’m currently working on: AI/ML Blog Website
-- 🌱 I’m learning: LLM architectures
-- 💬 Ask me about: Python, Django, Docker, Transformers, React, Next.js, Node.js, Flask, CLoud Computing, SQL & No-Sql databases.
-- 📫 How to reach me: bhimprasadadhikari98@gmail.com | [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bhim-prasad-adhikari-42b19b248/)
-
+- I’m currently working on: AI/ML Blog Website
+- I’m learning: LLM architectures
 
 ---
 
@@ -44,11 +41,9 @@ I’m a passionate developer who loves building full-stack applications, trainin
 ![My GitHub stats](https://github-readme-stats.vercel.app/api?username=BhimPrasadAdhikari&show_icons=true&hide_border=true&theme=radical)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BhimPrasadAdhikari&layout=compact&hide_border=true&theme=radical)
 ![Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=BhimPrasadAdhikari&hide_border=true&theme=radical)
-![Trophies](https://github-profile-trophy.vercel.app/?username=BhimPrasadAdhikari&hide_border=true&theme=radical&margin-w=10&margin-h=10)
-
 
 ---
 
 ## 🧠 Fun Fact
 
-> I love working on cross-functional teams and solving real world promblems using ML and AI.
+> I want to train a model to predict humankind future using ML and AI.
