@@ -38,7 +38,6 @@ I’m a passionate developer who loves building full-stack applications, trainin
 
 ## 📈 GitHub Stats
 
-![My GitHub stats](https://github-readme-stats.vercel.app/api?username=BhimPrasadAdhikari&show_icons=true&hide_border=true&theme=radical)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BhimPrasadAdhikari&layout=compact&hide_border=true&theme=radical)
 ![Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=BhimPrasadAdhikari&hide_border=true&theme=radical)
 
